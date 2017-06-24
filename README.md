@@ -8,9 +8,12 @@ This is signal processing exercise project.
 - Electronic Piano
 
     Used the signal to simulate a real piano.
-![Electronic piano](images/show.png)    
+![Electronic piano](images/Show.PNG)    
 
 - Signal Generator
 
   A program to produce many diffierent signals.
 ![Signal generator](images/signalGeneratorShow.gif)
+
+## Contributing
+- PengboHu
