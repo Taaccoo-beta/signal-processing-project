@@ -1,4 +1,4 @@
-# signal-processing-project
+# Signal-processing-project
 This is signal processing exercise project.
 
 ## Environment
@@ -8,7 +8,7 @@ This is signal processing exercise project.
 - Electronic Piano
 
     Used the signal to simulate a real piano.
-![Electronic piano](images/Show.PNG)    
+![Electronic piano](https://github.com/taaccoo-beta/signal-processing-project/raw/master/images/show.png)    
 
 - Signal Generator
 
